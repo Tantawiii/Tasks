@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TantawiisLibrary", "TantawiisLibrary.csproj", "{4315605B-7474-462E-96F7-B99C33DBAFBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2", "..\Day2\Day2.csproj", "{92602049-B7E2-4A68-A1EF-A8F238317E61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4315605B-7474-462E-96F7-B99C33DBAFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4315605B-7474-462E-96F7-B99C33DBAFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4315605B-7474-462E-96F7-B99C33DBAFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4315605B-7474-462E-96F7-B99C33DBAFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92602049-B7E2-4A68-A1EF-A8F238317E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92602049-B7E2-4A68-A1EF-A8F238317E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92602049-B7E2-4A68-A1EF-A8F238317E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92602049-B7E2-4A68-A1EF-A8F238317E61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {806C1D94-5220-4799-945D-40B0BC4E9F13}
+	EndGlobalSection
+EndGlobal
